@@ -11,15 +11,17 @@ int main ()
     scanf ("%d", &y);
 
     int compare;
-
+        //if y is greater than x
     if (x<y)
     {
         printf ("x is less than y\n");
     }
+        //if x is greater than y
     else if (x>y)
     {
         printf ("x is greater than y\n");
     }
+        // if x is equal to y
     else if (x==y)
     {
         printf ("x is equal to y\n");
