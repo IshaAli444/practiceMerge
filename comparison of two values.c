@@ -11,7 +11,8 @@ int main ()
     scanf ("%d", &y);
 
     int compare;
-
+// if else condition
+    
     if (x<y)
     {
         printf ("x is less than y\n");
